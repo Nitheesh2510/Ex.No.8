@@ -55,12 +55,12 @@ Examine the image carefully and note every key element:
 
 # Step 5 — Fine-Tune with Textures and Distinctive Features
 
-"Majestic Japanese alpine lake with mirror-like reflections, lush blooming sakura trees framing the scene, traditional Japanese pagoda resting on a rocky hillside, towering snow-covered mountains in the distance, soft spring breeze scattering cherry blossom petals across the water, cinematic volumetric lighting, atmospheric depth, ultra realistic textures, breathtaking fantasy realism, Unreal Engine 5 render quality, highly detailed environment, vibrant spring colors, realistic lighting, AAA game environment style, ultra detailed 8K UHD wallpaper."
----
+Majestic Japanese alpine lake with mirror-like reflections, lush blooming sakura trees framing the scene, traditional Japanese pagoda resting on a rocky hillside, towering snow-covered mountains in the distance, soft spring breeze scattering cherry blossom petals across the water, cinematic volumetric lighting, atmospheric depth, ultra realistic textures, breathtaking fantasy realism, Unreal Engine 5 render quality, highly detailed environment, vibrant spring colors, realistic lighting, AAA game environment style, ultra detailed 8K UHD wallpaper
 
 ### Step 6 — Generate the Image
 
 Input the refined prompt into the chosen text-to-image model (DALL·E, Stable Diffusion, or MidJourney) and generate the image.
+
 
 ---
 
