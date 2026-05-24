@@ -35,50 +35,27 @@ Examine the image carefully and note every key element:
 
 ---
 
-### Step 2 — Write the Basic Prompt
+# Step 2 — Write the Basic Prompt
 
-Start with a simple, high-level description of the primary elements in the image.
-
-**Example:**
-```
-A serene landscape with mountains and a river.
-```
+"A peaceful Japanese mountain lake with cherry blossom trees, a traditional pagoda, snowy mountains, and floating sakura petals."
 
 ---
 
-### Step 3 — Refine with Specific Details
+# Step 3 — Refine with Specific Details
 
-Add specifics such as colors, mood, time of day, and atmosphere.
-
-**Example:**
-```
-A serene landscape during sunset with purple mountains, a calm river 
-reflecting the colors of the sky, and a few trees along the shore.
-```
+"A serene Japanese alpine lake surrounded by blooming cherry blossom trees, crystal clear reflective water, traditional pagoda on a rocky hillside, snowy mountains in the background, drifting sakura petals, warm spring sunlight, peaceful fantasy atmosphere."
 
 ---
 
-### Step 4 — Identify Style and Artistic Influences
+# Step 4 — Identify Style and Artistic Influences
 
-If the image has a recognizable artistic style, include it explicitly in the prompt.
-
-**Example:**
-```
-A serene landscape in the style of a watercolor painting with soft, blended colors.
-```
+"A serene Japanese alpine lake surrounded by blooming cherry blossom trees, crystal clear reflective water, traditional pagoda on a rocky hillside, snowy mountains in the background, drifting sakura petals, warm spring sunlight, peaceful fantasy atmosphere, rendered in ultra realistic cinematic fantasy style inspired by Unreal Engine 5 environment art."
 
 ---
 
-### Step 5 — Fine-Tune with Textures and Distinctive Features
+# Step 5 — Fine-Tune with Textures and Distinctive Features
 
-Add textures, weather conditions, or any unique visual features that make the image distinctive.
-
-**Example:**
-```
-A serene landscape during sunset with purple mountains, a calm river reflecting 
-the colors of the sky, a few trees along the shore, and soft pastel tones in the clouds.
-```
-
+"Majestic Japanese alpine lake with mirror-like reflections, lush blooming sakura trees framing the scene, traditional Japanese pagoda resting on a rocky hillside, towering snow-covered mountains in the distance, soft spring breeze scattering cherry blossom petals across the water, cinematic volumetric lighting, atmospheric depth, ultra realistic textures, breathtaking fantasy realism, Unreal Engine 5 render quality, highly detailed environment, vibrant spring colors, realistic lighting, AAA game environment style, ultra detailed 8K UHD wallpaper."
 ---
 
 ### Step 6 — Generate the Image
